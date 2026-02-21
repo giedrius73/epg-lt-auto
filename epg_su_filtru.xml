@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="epg-filter">
+
+    <channel id="lrt.lt">
+        <display-name>LRT Televizija</display-name>
+    </channel>
+
+    <programme start="20240221060000 +0200" stop="20240221070000 +0200" channel="lrt.lt">
+        <title lang="lt">Testinė laida</title>
+        <desc lang="lt">Tai yra testinis EPG įrašas SmartOne grotuvui.</desc>
+    </programme>
+
+</tv>
